@@ -12,6 +12,6 @@ ultimamente estou estudando o básico do desenvolvimento web para pegar o ritmo.
 ***
 
 #### Estudando
-<a><img height="27em" alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript"/></a>
-<a><img height="27em" alt="CSS3 logo" src="https://img.shields.io/badge/CSS-blue?logo=css3"/></a>
-<a><img height="27em" alt="HTML5 logo" src="https://img.shields.io/badge/HTML-white?logo=html5"/></a>
+<a href="#"><img height="27em" alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript"/></a>
+<a href="#"><img height="27em" alt="CSS3 logo" src="https://img.shields.io/badge/CSS-blue?logo=css3"/></a>
+<a href="#"><img height="27em" alt="HTML5 logo" src="https://img.shields.io/badge/HTML-white?logo=html5"/></a>
