@@ -1,4 +1,4 @@
-<a href="freirylazaro@gmail.com"><img height="22em" alt="Gmail logo" src="https://img.shields.io/badge/-Gmail-critical?&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:freirylazaro@gmail.com"><img height="22em" alt="Gmail logo" src="https://img.shields.io/badge/-Gmail-critical?&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lazarofreiry-941017232/"><img height="22em" alt="LinkedIn logo" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?&logo=LinkedIn&logoColor=white"/></a>
 
 ***
